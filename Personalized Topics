@@ -4,3 +4,15 @@ Topics to Cover:
   -> Machine Learning Concepts
   -> Maths and Statistics
   ->Competitve Programming(Not Important RN)
+
+
+Data Engineer Roadmap(To Cover):
+-Explore cloud platforms like AWS, Azure, or Google Cloud Platform and their respective services for data engineering.
+-Become familiar with cloud-based data services like Amazon S3, Azure Blob Storage, or Google Cloud Storage.
+-Learn to use cloud-based data processing tools like AWS Glue, Azure Databricks, or Google Cloud Dataproc. 
+
+-Understand Apache Spark and its various components (Spark SQL, Spark Streaming) for data processing.
+- Learn to design and implement robust data pipelines for real-time and batch processing.
+- Understand workflow orchestration tools like Airflow or Luigi to automate data pipeline execution.
+
+-Learn how to ensure data quality throughout the data pipeline. 
